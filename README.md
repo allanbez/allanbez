@@ -1,9 +1,4 @@
-olá👋
-
-
-**allanbez/allanbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+olá meu nome é Allan
 
 - 🔭 atuealmente estou desempregado
 - 🌱 atualmente cursando programação front-end
