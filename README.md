@@ -46,6 +46,9 @@ A tag <html lang="pt´BR"> indica o inicio do documento HTML. O atributo `lang="
   
   A tg `<p>` usada para marcar um parágrafo
 
+  https://github.com/allanbez/allanbez/edit/main/README.md
+  
+
   ### Tabela de proficiência
 
   idioma | Nivel
